@@ -80,7 +80,7 @@
     "typescript": "^2.9.2",
     "webpack": "^4.0.0",
     "webpack-bundle-analyzer": "^3.0.0",
-    "webpack-cli": "^3.0.0"
+    "webpack-cli": "3.1.0"
   },
   "browser": {
     "./lib/get-request-agent.js": false,
