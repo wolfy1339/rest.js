@@ -77,7 +77,7 @@
     "standard-markdown": "^5.0.1",
     "string-to-arraybuffer": "^1.0.0",
     "typescript": "^2.9.2",
-    "webpack": "^4.0.0",
+    "webpack": "4.23.1",
     "webpack-bundle-analyzer": "^3.0.0",
     "webpack-cli": "^3.0.0"
   },
