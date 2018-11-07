@@ -51,7 +51,7 @@
     "@gr2m/node-fetch": "^2.0.0",
     "@octokit/fixtures-server": "^3.0.0",
     "@octokit/routes": "14.6.2",
-    "@types/node": "^10.1.2",
+    "@types/node": "^10.12.3",
     "apidoc": "^0.17.6",
     "bundlesize": "^0.17.0",
     "chai": "^4.1.2",
